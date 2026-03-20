@@ -1,37 +1,33 @@
-# Text Analytics in Java
+# Text Analytics Engine
 
 ## Overview
-This project implements text analytics techniques in Java to process and analyze textual data.
+A text analytics engine designed to process, analyze, and extract meaningful insights from unstructured text data.
 
-## Purpose
-The goal of this project is to demonstrate how text data can be processed and analyzed to extract useful information and insights.
+This project demonstrates how text processing and NLP techniques can be applied to real-world business scenarios.
+
+---
 
 ## Features
-- Text preprocessing (cleaning, tokenization)
-- Word frequency analysis
-- Basic text analysis techniques
-- Structured text processing
+- Text parsing and processing
+- Keyword extraction and analysis
+- Basic NLP techniques implementation
+- Structured output for insights
+- Scalable design for large text datasets
+
+---
 
 ## Tech Stack
 - Java
-- Text Processing
-- Basic NLP Concepts
+- Natural Language Processing (NLP)
+- Data processing techniques
 
-## What I Learned
-- Text preprocessing techniques
-- Handling unstructured data
-- Implementing text analysis logic
-- Extracting insights from text
+---
 
-## Use Case
-This type of system can be used for:
-- Text analysis
-- Basic NLP tasks
-- Data preprocessing for machine learning
-- Content analysis
+## Business Use Case
+This system can be used for:
+- Customer feedback analysis
+- Review and sentiment analysis
+- Document classification
+- Business intelligence from text data
 
-## Future Improvements
-- Add sentiment analysis
-- Integrate machine learning models
-- Support large-scale text processing
-- Build visualization for results
+It helps organizations turn unstructured text into actionable insights.
