@@ -31,3 +31,16 @@ This system can be used for:
 - Business intelligence from text data
 
 It helps organizations turn unstructured text into actionable insights.
+
+---
+
+## Future Improvements
+- Integration with APIs or external services
+- Scalable architecture enhancements
+- Performance optimization
+- Deployment as a web-based application
+
+---
+
+## Author
+JC EXPRESS – AI, Data, Software & Automation Solutions
